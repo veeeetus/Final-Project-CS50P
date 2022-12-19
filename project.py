@@ -58,7 +58,7 @@ def main():
             # Logged menu
             print(Fore.GREEN + table("logged").draw())
                     
-            option = get_opt(6)
+            option = get_opt(7)
 
             match option:
                 # Add new passes
