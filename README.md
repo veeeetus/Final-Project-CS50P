@@ -46,7 +46,7 @@ It contains **main** function as well as other ones which was a requirement in c
 - **get_pass**:
     + This function breaks into 3 cases:
         * **Case 1 login**:
-            * Validates given password if matches specs returns in elseway gives error
+            * Validates given password if matches specs returns it elseway shows error message
         * **Case 2 register**:
             * Validates password and compare password to re-typed password if they match returns password
         * **Case 3 site**:
