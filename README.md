@@ -1,5 +1,5 @@
 # Final-Project-CS50P
-## Video Demo: <URL>
+## Video Demo: https://youtu.be/wf4V-LxhdOA
 # Password Manager
 This is my implementation of command-line based password manager written in **Python** <br><br>
 
