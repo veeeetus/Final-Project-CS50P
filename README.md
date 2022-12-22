@@ -77,5 +77,6 @@ Containts some tests to my project which was one of specifications in course
     * Create venv and install all packages from **requirements.txt** with pip (e.g. pip install texttable)
 + **Step 3**:
     * Open sqlite and run dumped sql script to create database
+    example: app.sql | sqlite3 app.db
 + **Step 4**:
     * type python3 project.py and enjoy your password manager :)
